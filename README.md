@@ -30,11 +30,11 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kzsigmond&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&hide=stars&locale=en" alt="Kzsigmond's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kzsigmond&theme=transparent&count_private=true&show_icons=true&rank_icon=github&hide=stars&locale=en" alt="Kzsigmond's GitHub Stats" />
         
-<img width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=kzsigmond&theme=tokyonight" alt="GitHub streak" />
+<img width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=kzsigmond&theme=transparent" alt="GitHub streak" />
 
-<img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=kzsigmond&theme=tokyonight&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="kzsigmond's Most Used Languages" />
+<img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=kzsigmond&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="kzsigmond's Most Used Languages" />
 </div>
 
 <hr>
